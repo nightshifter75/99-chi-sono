@@ -1,56 +1,46 @@
-# Hi there, I'm Gianluca! 👋
+# Ciao a tutti, sono Gianluca! 👋
 
 ---
 
-### About Me
+### Chi Sono
 - 👨‍💻 **Gianluca Cherubini a.k.a. *nightshifter75***
-- 👶🏻 **Born in 1975-01-11 06:00** 👩🏻‍🍼
-- 💾 **Computer and videogames enthusiast since 1985** 🕹️
-- 🎵 **Guitar, Bass and Theorbo Player since 1990** 🎸
-- 🎲 **Dungeon Master since 1990** 🐉
-- 🤖 **Red Hat Products 🐧 RHEL ⚙️ AAP 📡 SATELLITE 🚚 OCP since 1995**
-- 🎬 **Cinephile & Series Addict** 🎞️
-- ☕ **Powered by Coffee** ☕ *(Day begins after the first espresso)*
+- 👶🏻 **Nato il 11-01-1975 06:00** 👩🏻‍🍼
+- 💾 **Appassionato di computer e videogiochi dal 1985** 🕹️
+- 🎵 **Chitarrista, Bassista e Tiorbista dal 1990** 🎸
+- 🎲 **Dungeon Master dal 1990** 🐉
+- 🤖 **Prodotti Red Hat 🐧 RHEL ⚙️ AAP 📡 SATELLITE 🚚 OCP dal 1995**
+- 🎬 **Cinefilo e *Drogato* dalle Serie TV** 🎞️
+- ☕ **Alimentato a Caffè** ☕ *(La giornata inizia dopo il primo espresso)*
 
 ---
 
-### My Computer Setup 🤖
-- 👨‍💻 **MacBook Air 13" M5 with macOS 26.6 working since 2026-03-20 16:09:26**
-- 🖥️ **MacStudio M1 Max with macOS 26.6 working since 2026-05-05 18:56:07**
-- 💻 **Dell 14 DC14250 with RHEL 10.2 Workstation working since 2026-06-17 13:00:06**
-- 🖥️ **Commodore64x PC with RHEL 9.8 Server working since 2026-05-27 14:31:11**
+### Il Mio Setup Informatico 🤖
+- 👨‍💻 **MacBook Air 13" M5 con macOS 26.6 in servizio dal 20-03-2026 16:09:26**
+- 🖥️ **MacStudio M1 Max con macOS 26.6 in servizio dal 05-05-2026 18:56:07**
+- 💻 **Dell 14 DC14250 con RHEL 10.2 Workstation in servizio dal 17-06-2026 13:00:06**
+- 🖥️ **Commodore64x PC con RHEL 9.8 Server in servizio dal 27-05-2026 14:31:11**
 - 🎮 **PS5 Pro**
 - ⌨️ **Mega65**
 
-### My Music Setup 🎸
-- **Fender Classic Vibe Active 70s Jazz Bass 5 strings (Ocean Turquoise) since 2026-08-08**
-- **Fender FA-25N Alternative Series Classical Guitar since 2026-04-09**
-- **Fender Precision Electric Bass 4 strings (California Blue) since 2025-05-19**
-- **Fender CB-60SCE Acoustic Bass 4 strings (Black) since 2023-09-23**
-- **Fender Precision Electric Bass 4 strings Short Scale (Dakota Red) since 2021-10-18**
-- **Cort GB35A Electric Bass 5 strings (Sunburst) since 2014-01-11**
+### Il Mio Setup Musicale 🎸
+- **Basso elettrico 5 corde Fender Classic Vibe Active 70s Jazz Bass (Ocean Turquoise) dal 08-08-2026**
+- **Chitarra classica Fender FA-25N Alternative Series dal 09-04-2026**
+- **Basso elettrico 4 corde Fender Precision (California Blue) dal 19-05-2025**
+- **Basso acustico 4 corde Fender CB-60SCE (Nero) dal 23-09-2023**
+- **Basso elettrico 4 corde scala corta Fender Precision (Dakota Red) dal 18-10-2021**
+- **Basso elettrico 5 corde Cort GB35A (Sunburst) dal 11-01-2014**
 
 ---
 
-### 📚 My Learning Journey
-*Currently organizing my studies into dedicated repositories:*
-- [ ] 📖 [Red Hat Enterprise Linux] - *In Progress*
-- [ ] 📖 [Ansible Automation Platform] - *In Progress*
-- [ ] 📖 [OpenShift Container Platform] - *Coming soon*
-- [ ] 📖 [Electric Bass] - *In Progress*
+### 📚 Il Mio Percorso di Apprendimento
+*Attualmente sto organizzando i miei studi in repository dedicati:*
+- [ ] 📖 [Red Hat Enterprise Linux] - *In Corso*
+- [ ] 📖 [Ansible Automation Platform] - *In Corso*
+- [ ] 📖 [OpenShift Container Platform] - *In Arrivo*
+- [ ] 📖 [Basso Elettrico] - *In Corso*
 
 ---
 
-*"Digital by choice, Musician by soul, Caffeine by necessity."*
+*"Digitale per professione, Musicista per passione, Caffeina per necessità."*
 
 ---
-
-## Who Am I?
-
-![Infografica](img/infografica/about-me-the-bassist.png)
-![Infografica](img/infografica/about-me-the-it-guy.png)
-![Infografica](img/infografica/about-me-the-bard.png)
-
-## Updates
-
-![Infografica](img/infografica/about-me-update.png)
