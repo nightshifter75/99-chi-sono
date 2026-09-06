@@ -5,3 +5,4 @@
 ![Infografica](img/infografica/chi-sono-l-informatico.jpg)
 ![Infografica](img/infografica/chi-sono-il-bardo.jpg)
 ![Infografica](img/infografica/whisky-e-scooby-doo.jpg)
+![Infografica](img/infografica/due-passioni.jpg)
