@@ -1,8 +1,8 @@
 ## Chi sono
 
-![Infografica](img/infografica/chi-sono.jpg)
-![Infografica](img/infografica/chi-sono-il-bassista.jpg)
-![Infografica](img/infografica/chi-sono-l-informatico.jpg)
-![Infografica](img/infografica/chi-sono-il-bardo.jpg)
-![Infografica](img/infografica/whisky-e-scooby-doo.jpg)
-![Infografica](img/infografica/due-passioni.jpg)
+![Infografica](img/chi-sono.jpg)
+![Infografica](img/chi-sono-il-bassista.jpg)
+![Infografica](img/chi-sono-l-informatico.jpg)
+![Infografica](img/chi-sono-il-bardo.jpg)
+![Infografica](img/whisky-e-scooby-doo.jpg)
+![Infografica](img/due-passioni.jpg)
