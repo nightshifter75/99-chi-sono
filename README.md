@@ -4,7 +4,7 @@
 
 ### Chi Sono
 - 👨‍💻 **Gianluca Cherubini a.k.a. *nightshifter75***
-- 👶🏻 **Nato il 11-01-1975 06:00** 👩🏻‍🍼
+- 👶🏻 **Nato il giorno 11-01-1975 alle 06:00 del mattino** 👩🏻‍🍼
 - 💾 **Appassionato di computer e videogiochi dal 1985** 🕹️
 - 🎵 **Chitarrista, Bassista e Tiorbista dal 1990** 🎸
 - 🎲 **Dungeon Master dal 1990** 🐉
