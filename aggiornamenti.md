@@ -1,15 +1,13 @@
 # Aggiornamenti
 
 ## 15 Settembre 2026
-![Infografica](img/chi-sono-2026-09-15.jpg)
+![Updayte](img/updayte-2026-09-15.jpg)
 
 ## 6 Settembre 2026
-![Infografica](img/il-mac-studio-non-si-tocca.jpg)
-![Infografica](img/la-nostra-famiglia-allargata.jpg)
-![Infografica](img/due-mac-studio-una-scelta.jpg)
+![Infografica](img/il-mac-studio-non-si-tocca-2026-09-06.jpg)
 
 ## 1 Settembre 2026
-![Infografica](img/chi-sono-2026-09-01.jpg)
+![Perché un Bardo non ha la sua Tiorba](img/perche-un-bardo-non-ha-la-sua-tiorba-2026-09-01.jpg)
 
 ## 31 Agosto 2026
-![Infografica](img/chi-sono-2026-08-31.jpg)
+![Nuove Sfide](img/nuove-sfide-2026-08-31.jpg)
