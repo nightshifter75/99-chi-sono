@@ -44,3 +44,9 @@
 *"Digitale per professione, Musicista per passione, Caffeina per necessità."*
 
 ---
+
+![Chi sono](img/chi-sono.jpg)
+![Il Bassista](img/chi-sono-il-bassista.jpg)
+![L'Informatico](img/chi-sono-l-informatico.jpg)
+![Il Bardo](img/chi-sono-il-bardo.jpg)
+![Whisky e Scooby-Doo](img/whisky-e-scooby-doo.jpg)
