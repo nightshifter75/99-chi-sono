@@ -17,6 +17,7 @@
 ### Il Mio Setup Informatico 🤖
 - 👨‍💻 **MacBook Air 13" M5 in servizio dal 20-03-2026 16:09:26**
 - 🖥️ **MacStudio M1 Max in servizio dal 05-05-2026 18:56:07**
+- 🖥️ **MacStudio M5 Max in servizio dal 22-09-2026 14:00:00**
 - 💻 **Dell 14 DC14250 con RHEL Workstation in servizio dal 17-06-2026 13:00:06**
 - 🖥️ **Commodore64x PC con RHEL Server in servizio dal 27-05-2026 14:31:11**
 - 🎮 **PS5 Pro in servizio dal 07-11-2024 alle 10:22**
