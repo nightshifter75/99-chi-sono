@@ -17,7 +17,7 @@
 - 💻 **Dell 14 DC14250 con RHEL Workstation in servizio dal 17-06-2026 13:00:06**
 - 🖥️ **Commodore64x PC con RHEL Server in servizio dal 27-05-2026 14:31:11**
 - 🎮 **PS5 Pro in servizio dal 07-11-2024 alle 10:22**
-- ⌨️ **Mega65 in servizio dal 10-02-2026? alle 18:15**
+- ⌨️ **Mega65 in servizio dal 10-02-2026 alle 18:15**
 
 ## Il Mio Setup Musicale 🎸
 - **Basso elettrico 5 corde Fender Classic Vibe Active 70s Jazz Bass (Ocean Turquoise) dal 08-08-2026**
