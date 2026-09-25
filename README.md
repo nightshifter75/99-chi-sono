@@ -15,7 +15,7 @@
 - 🖥️ **MacStudio M1 Max in servizio dal 05-05-2026**
 - 🖥️ **MacStudio M5 Max in servizio dal 22-09-2026**
 - 💻 **Dell 14 DC14250 con RHEL Workstation in servizio dal 17-06-2026**
-- 🖥️ **Commodore64x PC con RHEL Server in servizio dal 27-05-2026**
+- 🖥️ **Commodore64x PC con RHEL Server in servizio dal 28-10-2025**
 - 🎮 **PS5 Pro in servizio dal 07-11-2024**
 - ⌨️ **Mega65 in servizio dal 10-02-2026**
 
