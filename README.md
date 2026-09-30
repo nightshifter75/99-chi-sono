@@ -1,7 +1,7 @@
 # Ciao a tutti, sono Gianluca! 👋
 
 ## Chi Sono
-- 👨 **Gianluca Cherubini a.k.a. *nightshifter75***
+- 👨 **Gianluca Cherubini a.k.a. *nightshifter75*** 🌃
 - 👶 **Nato il giorno 11-01-1975** 🍼
 - 💾 **Appassionato di computer e videogiochi dal 1985** 🕹️
 - 🎵 **Chitarrista, Bassista e Tiorbista dal 1990** 🎸
