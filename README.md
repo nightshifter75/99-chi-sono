@@ -20,6 +20,7 @@
 - ⌨️ **Mega65 in servizio dal 10-02-2026**
 
 ## Il Mio Setup Musicale 🎸
+- **Basso Elettrico Makeev Foldable Custom 5 corde (Natural Wood) dal 30-08-2026**
 - **Basso elettrico 5 corde Fender Classic Vibe Active 70s Jazz Bass (Ocean Turquoise) dal 08-08-2026**
 - **Chitarra classica Fender FA-25N Alternative Series dal 09-04-2026**
 - **Basso elettrico 4 corde Fender Precision (California Blue) dal 19-05-2025**
