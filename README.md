@@ -23,8 +23,6 @@
 - **Basso Elettrico Makeev Foldable Custom 5 corde (Natural Wood) dal 30-08-2026**
 - **Basso elettrico 5 corde Fender Classic Vibe Active 70s Jazz Bass (Ocean Turquoise) dal 08-08-2026**
 - **Chitarra classica Fender FA-25N Alternative Series dal 09-04-2026**
-- **Basso acustico 4 corde Fender CB-60SCE (Nero) dal 23-09-2023**
-- **Basso elettrico 4 corde scala corta Fender Precision (Dakota Red) dal 18-10-2021**
 - **Basso elettrico 5 corde Cort GB35A (Sunburst) dal 11-01-2014**
 
 ## 📚 Il Mio Percorso di Apprendimento
