@@ -11,7 +11,6 @@
 - ☕ **Alimentato a Caffè** ☕ *(La giornata inizia dopo il primo espresso)*
 
 ## Il Mio Setup Informatico 🤖
-- 💻 **MacBook Air 13" M5 in servizio dal 20-03-2026**
 - 🖥️ **MacStudio M1 Max in servizio dal 05-05-2026**
 - 🖥️ **MacStudio M5 Max in servizio dal 22-09-2026**
 - 💻 **Dell 14 DC14250 con RHEL Workstation in servizio dal 17-06-2026**
