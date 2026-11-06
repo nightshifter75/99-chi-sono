@@ -28,7 +28,6 @@
 ## 📚 Il Mio Percorso di Apprendimento
 - [ ] 📖 [Red Hat Enterprise Linux] - *In Corso*
 - [ ] 📖 [Ansible Automation Platform] - *In Corso*
-- [ ] 📖 [OpenShift Container Platform] - *In Arrivo*
 - [ ] 📖 [Basso Elettrico] - *In Corso*
 
 *"Digitale per professione, Musicista per passione, Caffeina per necessità."*
